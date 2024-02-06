@@ -1,0 +1,5 @@
+If your message says something like: Make heroImage.jpg in index.html responsive, then that's a good message. You could adopt the convention that some developers use of prefixing their commit messages with feat for feature, fix for a bugfix, style for changes to your CSS, docs for changes related to documentation, refactor for refactored code or maint for general maintenance.
+
+There was a wicked witch
+Who thought she was queen of the land.
+Way up in the mountain.
